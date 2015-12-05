@@ -1,7 +1,6 @@
 $(function() {
   clearPage();
   $('.about_me').on('click', aboutMe);
-  $('.blog').on('click', blogPosts);
   $('.projects').on('click', projects);
   $('.resume').on('click', resume);
 });
@@ -9,8 +8,6 @@ $(function() {
 function clearPage(){
   $("#aboutMePage").hide();
   $("#projects").hide();
-  $("#techblogs").hide();
-  $("#culturalblogs").hide();
   $("#resumePage").hide();
 }
 
@@ -20,14 +17,6 @@ function aboutMe(event){
   $('#aboutMePage').show();
 };
 
-
-
-function blogPosts(event){
-  event.preventDefault();
-  clearPage();
-   $('#techblogs').show();
-   $('#culturalblogs').show();
-}
 
 function projects(event){
   event.preventDefault();
