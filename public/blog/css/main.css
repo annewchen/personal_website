@@ -76,8 +76,8 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: #828282;
-  border-left: 4px solid #e8e8e8;
+  color: #424242;
+  border-left: 4px solid #a8a8a8;
   padding-left: 15px;
   font-size: 18px;
   letter-spacing: -1px;
@@ -91,7 +91,7 @@ blockquote {
 pre,
 code {
   font-size: 15px;
-  border: 1px solid #e8e8e8;
+  border: 1px solid #a8a8a8;
   border-radius: 3px;
   background-color: #eef; }
 
@@ -140,14 +140,14 @@ pre {
   height: 16px;
   vertical-align: middle; }
   .icon > svg path {
-    fill: #828282; }
+    fill: #424242; }
 
 /**
  * Site header
  */
 .site-header {
-  border-top: 5px solid #424242;
-  border-bottom: 1px solid #e8e8e8;
+  border-top: 5px solid #a4a9ff;
+  border-bottom: 1px solid #a4a9ff;
   min-height: 56px;
   position: relative; }
 
@@ -158,7 +158,7 @@ pre {
   margin-bottom: 0;
   float: left; }
   .site-title, .site-title:visited {
-    color: #424242; }
+    color: #020202; }
 
 .site-nav {
   float: right;
@@ -176,7 +176,7 @@ pre {
       top: 9px;
       right: 30px;
       background-color: #fdfdfd;
-      border: 1px solid #e8e8e8;
+      border: 1px solid #a8a8a8;
       border-radius: 5px;
       text-align: right; }
       .site-nav .menu-icon {
@@ -191,7 +191,7 @@ pre {
           width: 18px;
           height: 15px; }
           .site-nav .menu-icon > svg path {
-            fill: #424242; }
+            fill: #020202; }
       .site-nav .trigger {
         clear: both;
         display: none; }
@@ -206,7 +206,7 @@ pre {
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid #e8e8e8;
+  border-top: 1px solid #a4a9ff;
   padding: 30px 0; }
 
 .footer-heading {
@@ -220,7 +220,7 @@ pre {
 
 .footer-col-wrapper {
   font-size: 15px;
-  color: #828282;
+  color: #424242;
   margin-left: -15px; }
 
 .footer-col {
@@ -271,7 +271,7 @@ pre {
 
 .post-meta {
   font-size: 14px;
-  color: #828282; }
+  color: #424242; }
 
 .post-link {
   display: block;

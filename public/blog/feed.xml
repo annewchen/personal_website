@@ -5,13 +5,13 @@
     <description>This blog is a timeline of my venture into the tech world starting from attending DevBootcamp to current.</description>
     <link>http://yourdomain.com/blog/</link>
     <atom:link href="http://yourdomain.com/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 04 Dec 2015 17:20:07 -0800</pubDate>
-    <lastBuildDate>Fri, 04 Dec 2015 17:20:07 -0800</lastBuildDate>
+    <pubDate>Mon, 07 Dec 2015 15:03:44 -0800</pubDate>
+    <lastBuildDate>Mon, 07 Dec 2015 15:03:44 -0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You will find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
@@ -26,14 +26,258 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 02 Dec 2015 08:14:24 -0800</pubDate>
-        <link>http://yourdomain.com/blog/jekyll/update/2015/12/02/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/blog/jekyll/update/2015/12/02/welcome-to-jekyll.html</guid>
+        <pubDate>Fri, 04 Dec 2015 10:19:13 -0800</pubDate>
+        <link>http://yourdomain.com/blog/jekyll/update/2015/12/04/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/jekyll/update/2015/12/04/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Questions</title>
+        <description>&lt;h2&gt;There is no such thing as a dumb question - just poorly posed.&lt;/h2&gt;
+
+&lt;p&gt;There have been a few times when a or two question go unanswered in the DBC cohort chat. In cases like this, there are a couple of things that you have to consider such as your audience, question content, and response. As I am going to start the DBC onsite portion, it is important that I am expressing my questions in a concise and coherent manner.&lt;/p&gt;
+
+&lt;h3&gt;Your Audience&lt;/h3&gt;
+
+&lt;p&gt;Sometimes, the easiest explanation of why a question goes unanswered is simply because no one currently knows the answer. In the situation where everyone is following the same weekly curriculum, there is a good chance that the community just hasn’t learned enough to answer your question yet. When asking a question, think about your audience and what knowledge they may have. If your question is constantly going unanswered, it may be a good idea to ask a bigger community. Overall, always consider who you are asking.&lt;/p&gt;
+
+&lt;h3&gt;Content&lt;/h3&gt;
+
+&lt;p&gt;It is also important to respect your audience’s time. If your question is too verbose, some people may not spent the time reading it. Hence the popular meme, TL;DR (Too Long; Didn’t Read). So always try to keep it concise. The other half of this would be if your question is too vague. The reader may not fully understand what you need help with. I have seen many instances where the first comment reads “I need more information”. To sum up, it is important to try and make your question as detailed as possible while only including the key points. Also, when coding, it is helpful to include the code in question. This way, the reader can see exactly what you were doing and replicate your problem.&lt;/p&gt;
+
+&lt;h3&gt;Your Response&lt;/h3&gt;
+
+&lt;p&gt;Lastly, your interest in your own question is important. If someone gives you feedback, you should try to respond right away. This just shows that the question you asked was important to you and that you are looking into it. If no one answers after a good period of time (1-2 days if you can spare it), it would be good to send a prompt letting people know that you have not been helped yet.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 12 Aug 2015 17:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/blog/cultural/2015/08/12/questions.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/cultural/2015/08/12/questions.html</guid>
+        
+        
+        <category>cultural</category>
+        
+      </item>
+    
+      <item>
+        <title>Conflict</title>
+        <description>&lt;p&gt;Everyone grew up in a different environment and thus each has different opinions. Whenever those opinions clash, you have a conflict. Overall I would say that I am a pretty passive person. When I am with my family or friends, since I know them well enough, I can normally predict when and what conflicts may occur. In those cases, unless the other person’s opinion will directly effect me, I would normally give in. Obviously, in the work environment, you cannot always avoid conflict.&lt;/p&gt;
+
+&lt;p&gt;When I had worked at Citibank, there were many times when I did not see eye-to-eye with my coworkers. Communication was bit difficult since the team that I worked with were across the country. My position consisted of being the bridge between the clients and the loan processors. There would be many times when the Processors were slow in working the file so the clients would start to get upset. I would get as much done on my own as I could to the point where all the processor had to do was submit the loan to the Underwriter for review. The conflict was when the Processor would be unresponsive, causing unnecessary delays.&lt;/p&gt;
+
+&lt;p&gt;I would get very frustrated because I had felt unvalued by the processors. I had understood that they were busy as well so I took the time to organize the loan documents and make sure documents were completed correctly. When I helped lessened their workload, I believed that they should have returned the favor by getting the file in line for review as quickly as possible. I felt a responsibility to the clients to get their loan approved quickly so it upset me to think that the Processors did not care about client satisfication. It wasn’t long before I started to have negative feelings towards certain Processors and thinking that they were lazy and had no pride in their work.&lt;/p&gt;
+
+&lt;p&gt;In order to solve the conflict of delays, I had a system where I would send the Processors three emails over three days to work on the file. It was company policy that the Processors were to respond within 24 hours to an email so I was giving them plenty of time. If they responded, that would be the end of the conflict. If the file still did not move down the assembly line, I would contact the processing manager. Once the manager was involved, the files tended to move quickly. If I still had issues, I would get my own manager involved. Since it rarely got to the point were I needed my own manager involved, my manager would jump on the issue in a heartbeat whenever I brought him in.&lt;/p&gt;
+
+&lt;p&gt;I believed that the way I handled my work conflict was correct and would not change my actions. I got along well with most of the Processors and had given fair warning to few who were unresponsive before contacting their managers. I was empathetic to their situation when they were overworked but if they didn’t say anything to me at all, there was nothing I could do about it.&lt;/p&gt;
+
+&lt;p&gt;I learned that in the times when you are having difficulties, you have to tell the other person before it gets to a point where a conflict arises. If you have too much work on your plate or if you don’t understand something, you should make it known so that they can help you or at least understand where you are coming from. If you completely ignore someone, nothing will get done.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 06 Aug 2015 17:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/blog/cultural/2015/08/06/conflict.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/cultural/2015/08/06/conflict.html</guid>
+        
+        
+        <category>cultural</category>
+        
+      </item>
+    
+      <item>
+        <title>Values</title>
+        <description>&lt;h2&gt;“It&#39;s not hard to make decisions when you know what your values are.” ― Roy Disney&lt;/h2&gt;
+
+&lt;p&gt;I learned a lot about myself through this week’s topic. I feel as though I’ve always known what I consider important in my life but I’ve never had to put it into words. Although I feel as though I connect with a lot of the values, thinking about the times when I was the happiest and the times when I was upset, it becomes pretty clear what my most important values are.&lt;/p&gt;
+
+&lt;p&gt;I grew up in a house where academic achievement was priority. When I think about my youth, I mostly recall being sent to afterschool programs or tutoring sessions even when money was tight. Also, I have an older brother who always excelled academically and seemingly effortlessly. So when I look at my own average academica achievements, I have always felt inferior. So although it does not bring me happiness, achievement has always been apart of my life. Achievement would be one of my values that I feel sometimes ties me down.&lt;/p&gt;
+
+&lt;p&gt;I’ve always found that when I am with friends, everything can seem fun. Just a late night playing videogames would become a memory that I cherish. I also remember a time where I was stressed about an assignment in school to the point of tears and my friend being there to calm me down. She had made me realize that school wasn’t my entire life even though it seemed so at the time. I suppose I have always felt that no matter what is happening in my life, good/bad, I can always share with my friends and grow from it. Friendship is one of my most important values.&lt;/p&gt;
+
+&lt;p&gt;When I entered the workforce and felt as though I gained some independence, I quickly realized how much I valued responsibility and honesty. If something goes wrong, I feel as though whoever was involved should own up to it. It’s the same when something goes right. Credit should be given where credit is due. I had felt a responsibilty to perform up to my position expectations. I have always taken my work seriously.&lt;/p&gt;
+
+&lt;p&gt;I realize that DBC is going to be stressful and there will be topics that I will not understand right away. Although this will bring me down, I know I will be able to rely on my friends for support and myself to put in the time and effort to get on track. I feel as though DBC has created an honest environment. Even though I feel nervous when exposing my weaknesses, I can still share them with my cohorts. Now that the onsite portion of DBC is only 2 weeks away, my nervousness is slowly being overshadowed by my excitement.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 31 Jul 2015 17:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/blog/cultural/2015/07/31/values.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/cultural/2015/07/31/values.html</guid>
+        
+        
+        <category>cultural</category>
+        
+      </item>
+    
+      <item>
+        <title>Stereotype Threat</title>
+        <description>&lt;h2&gt;&quot;Girls can&#39;t do math...&quot;&lt;/h2&gt;
+
+&lt;p&gt;Stereotype is defined as believing unfairly that all people or things with a particular characteristic are the same. This topic is going to relate closely with one of the problems in the tech industry, diversity. Because there is a stereotype that women are not good at computer science, not many choose to pursue those degrees. As a result, the tech industry has a less diverse pool to hire from.&lt;/p&gt;
+
+&lt;p&gt;Now looking at stereotype threats in general, the one about how girls can’t do math hits closer to home. Personally there was a point in middle school where I found math hard, particularly pre-Algebra. I guess my case is unique as there were 2 stereotypes affecting me. The stereotype that Asians should do well in math pushed me to work harder and learn the material. So for me, the Asian/math stereotype affected me more than the girl/math stereotype. One worked to push me harder and luckily that was the one I associated with. But in the end, I realized that math was just like any other subject. Once you understand it, there is that indescribable feeling of accomplishment.&lt;/p&gt;
+
+&lt;p&gt;As a mathematics tutor, I had a lot of experiences with girls in high school who struggled in math because they gave into that stereotype. The most memorable student who suffered from this was actually one of my Psychology professor’s daughter. My professor knew that I was double majoring in math so she asked me to tutor her daughter to prove that the stereotype was false. Her daughter came into tutoring believing that she ‘sucks at math’. She realized quickly that she was simply not studying enough. Just putting in an extra 1.5 hours a week to review made her grades shoot up. She had pushed herself down even before she began due to believing in the stereotype.&lt;/p&gt;
+
+&lt;p&gt;As you can probably tell, I have a lot to say about this subject but I wanted to bring this back around to tech. Just like with math and girls, there is a stereotype about tech and girls. It’s no secret that there are less women who pursue a STEM (science, technology, engineering, or math) degree. They are further discouraged when those who do choose to take that path end up suffering in their work environment from other who do not believe that the women can perform as well. But just like with any issues, the first step is to admit that there is a problem. Just as the problem of diversity in tech is getting more attention, so is stereotype threat as a result. I can only hope that just by realizing when one is stereotyping will help prevent one from stereotyping in the future.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 25 Jul 2015 17:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/blog/cultural/2015/07/25/stereotype-threat.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/cultural/2015/07/25/stereotype-threat.html</guid>
+        
+        
+        <category>cultural</category>
+        
+      </item>
+    
+      <item>
+        <title>Feedback</title>
+        <description>&lt;h2&gt;Two heads are better than one&lt;/h2&gt;
+
+&lt;h3&gt;Pairing&lt;/h3&gt;
+
+&lt;p&gt;I felt that pairing with another person on challenges was beneficial in every instance. Before pairing, I worried about cases where two people did not have the same level of knowledge. When I actually started to pair, I realized that no matter what level the other person is at, you will still end up in a better position than you were before.&lt;/p&gt;
+
+&lt;p&gt;If one person has a better understanding of the topic, they could reinforce their understanding by going at a slower pace and teaching the other. When you think you know a topic well, you stop trying to learn more. When you explain to someone else, that other person might have questions that you haven’t considered yet. The person with less understanding benefits as well as since they can discuss what they do not understand. The other person may have had the same problems when learning the topic themselves. This give-take cycle works well especially in the empathetic environment that DBC created.&lt;/p&gt;
+
+&lt;h3&gt;Feedback&lt;/h3&gt;
+
+&lt;p&gt;What drew me to Dev Bootcamp was watching the &lt;a href=&quot;https://vimeo.com/99779530&quot;&gt;Emotional Intelligence&lt;/a&gt; video. I was looking forward to learning in an honest environment and getting feedback. When I started getting feedback on my pairing session, I enjoyed reading them and finding out what people thought about the way I worked.&lt;/p&gt;
+
+&lt;p&gt;Although most feedback was positive, I did get a bad one. Receiving negative feedback was definitely a lot tougher than I had thought it would be. In a feedback my pair stated that they had felt ignored. At first I felt attacked as I had thought I was being mindful. I immediately thought about what that pair had done that I didn’t like. But after that initial response, I thought about why I might have gotten that negative comment in the first place. It made me realize that I needed to be more aware of my pair. It really taught me that it is okay to slow things down because the importance of each challenge isn’t that we get the right answer but that we learned from doing it.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 16 Jul 2015 17:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/blog/cultural/2015/07/16/feedback.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/cultural/2015/07/16/feedback.html</guid>
+        
+        
+        <category>cultural</category>
+        
+      </item>
+    
+      <item>
+        <title>Tech Issues</title>
+        <description>&lt;h2&gt;What am I getting myself into?&lt;/h2&gt;
+
+&lt;p&gt;As someone who is just starting to code, I am trying to immerse myself not just in the mechanics of coding but also in the culture of it. In order to survive in any industry, you have to keep up with what’s going on. I am definitely starting very late in the game but better start now then tomorrow.&lt;/p&gt;
+
+&lt;p&gt;I feel one of the very first things you need to know about something are its problems. You can’t expect an industry that developed so quickly to be flawless. Considering how the internet was first opened to commercial use in 1995, most of the technology that we use everyday was only invented within the past 25 years! With such quick growth, it is no wonder that there are many cultural problems in the tech world. Just naming some of the more widely publicized problems: instances of hacking, lack of diversity, ageism, etc.&lt;/p&gt;
+
+&lt;h3&gt;The Problem&lt;/h3&gt;
+
+&lt;p&gt;Although there are many problems, I wanted to address just one of them for now: lack of diversity. Now why is diversity such an important thing? Well one of the biggest reasons is that the tech industry needs developers that will cater to their users. If you had a choose, you would want someone similar to yourself creating the tools that you will be using. Someone different than you may have different priorities and needs.&lt;/p&gt;
+
+&lt;p&gt;According to &lt;a href=&quot;http://www.pewinternet.org&quot;&gt;PewResearchCenter of Internet, Science, and Tech&lt;/a&gt;, 86% of women use the internet - 81% of African-Americans, and 83% of Hispanics use the internet.&lt;/p&gt;
+
+&lt;p&gt;What isn’t acceptable is that the people creating these technologies are mostly white and male. Just taking Google for example, women only make up of 18% of their tech employees - 1%  African-Americans, and 2% Hispanics. These numbers are too low compared to the demographic of users.&lt;/p&gt;
+
+&lt;h3&gt;What can be done?&lt;/h3&gt;
+
+&lt;p&gt;Since the issue with diversity is already a recognized problem, tech giants are already investing in solutions. Scholarships are being offered to women and minorities who are pursuing a computer science major. But I think that by the time teens reach the age where they start applying for colleges, it is already too late. An introduction to coding needs to be done earlier.&lt;/p&gt;
+
+&lt;p&gt;Most American elementary schools had a mandatory music class where everyone had to learn how to play the recorder. It introduced the idea of music and taught the basics like how to read notes. The kids can then choose to go on to join band or orchestra in middle school/high school. Just like the recorder, an introduction to computer science should be taught during this period. If the idea is implemented earlier, children will have the time to develop their own feelings about it. And if they find that they like coding, they should also be given the opportunity to pursue it.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 10 Jul 2015 17:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/blog/cultural/2015/07/10/tech-issues.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/cultural/2015/07/10/tech-issues.html</guid>
+        
+        
+        <category>cultural</category>
+        
+      </item>
+    
+      <item>
+        <title>Thinking Style</title>
+        <description>&lt;h2&gt;&quot;It is what it is&quot;  - Concrete Thinker&lt;/h2&gt;
+&lt;p&gt;After reading about Anthony Gregorc’s &lt;a href=&quot;http://web.cortland.edu/andersmd/learning/gregorc.htm&quot;&gt;theory on thinking styles&lt;/a&gt;, I learned that I am concrete sequential. If you want to take the quiz, it is right &lt;a href=&quot;http://www.thelearningweb.net/personalthink.html&quot;&gt;here&lt;/a&gt;! Concrete refers to how I tend to register information through my five senses. This is opposite of abstract thinkers who are better at visualizing and looking beyond what is there in order to see something more. Sequential refers to how my mind organizes information in a step-by-step order. This is opposed to random thinkers who organize information in chunks.&lt;/p&gt;
+
+&lt;p&gt;I think this style of thinking will aid my time management while at DevBootcamp. I like to make schedules for myself so I know what I am suppose to be doing and when it should be done. This also helps me organize my progress in learning. I can already imagine myself struggling when new problems arrise. I can only tell myself to calm down and try to step back and look at the problem in a different way. I tend to get myself in trouble by overthinking.&lt;/p&gt;
+
+&lt;p&gt;My biggest struggle so far 3 weeks into DBC, was coming up with a design for my website. I am not a very creative person. When asked to create a website from scratch, every detail stressed me out. What colors to choose, how to arrange my content, what font to make my words, etc. Now that I look back, this fits prefectly with my style of thinking. I only got through the challenge by telling myself that I just need a simple layout to begin with and to not over do it. I believe once I get more practice, I should be able to improve this. I also think that I should get into the habit of noting the things I like/dislike on websites that I visit. This could give me more of an idea of how I like things to look.&lt;/p&gt;
+
+&lt;p&gt;Another minor struggle I noticed was that when I worked in pairs, I preferred a more detailed navigator. It was harder for me to go off of only a litle bit of instructions so I found myself asking my navigator to clarify many times. I do not see this as too big of an issue so far as once I speak up, my pair has always been nice about clarifying. It is nice that now that I can put a name to what I prefer. In the future, I think I should let my pair know beforehand how I work best.&lt;/p&gt;
+
+&lt;p&gt;As for expanding my knowledge, I definitely feel as though I should be exposed to more coding. I can try and fix this by viewing source codes of websites I like or even browsing through github repos to see if I can understand any of the codes out there. I realize this might send me down a rabbit hole each time so maybe I can limit myself with viewing one code each day at first and see where it goes from there. All in all, I definitely need to make some changes and this is going to be an exciting journey for me.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 25 Jun 2015 17:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/blog/cultural/2015/06/25/thinking-style.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/cultural/2015/06/25/thinking-style.html</guid>
+        
+        
+        <category>cultural</category>
+        
+      </item>
+    
+      <item>
+        <title>Git</title>
+        <description>&lt;h2&gt;The git Monster&lt;/h2&gt;
+
+&lt;p&gt;In order to begin to fully understand the concept of the powerful tool known as git, I had to first learn about Version Control.&lt;/p&gt;
+
+&lt;p&gt;Now what is version control? I’d like to compare it to doing a math problem. When you were still in middle school, teachers always bugged you about showing all of your work. Well what happens when after all of your hard work, you find out that you got the wrong answer? You’d have to bust out your handy dandy eraser and erase your entire page of work. Now of course, after a while, you notice that your answer sheet is probably starting to wearing out from all of times you had to erase. Your teacher then starts bugging you about how messy your turned-in answer sheet is. That’s when you figure out that it is better to have a spare sheet of paper next to you for all of your chicken scratch work. You make all of your calculations on the spare sheet until you get the right answer. Once you make sure everything looks good, you transcribe the work onto your final answer sheet. You repeat this process for each question until you are done with the assignment. In the end, you only turn in your flawless answer sheet and toss your chicken scratch sheet. This is basically the concept of version control.&lt;/p&gt;
+
+&lt;p&gt;Version control is how a developer keeps their project looking flawless (like the turned-in answer sheet). When you want to make a change on your project, you first create a branch (like getting a scratch sheet of paper) and make the changes there. If it doesn’t work out, you discard it. No harm is done to your main project. If you like the changes made, you can merge your new work onto you master project. Essentially, you are controlling which version you want to show in the end.&lt;/p&gt;
+
+&lt;p&gt;Now that I have that version control concept cemented, it is time to tackle the git concept monster. The first thing you want to do is create a branch to work in so nothing happens to your master project. Time to pull out that chicken scratch sheet of paper! To do this, call:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;git checkout -b branch-name&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Now, it is important to understand that there 3 basic statuses of git: Working, Staging, and Repository.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt; &lt;h5&gt;Working Status&lt;/h5&gt;
+      Basically this is when you are making a change to a file or making an entirely new file. If you call `git status` you will find that your changes are untracked. Once all of your edits are the way you want them to be, you would want to move these changes to the staging status. In order to change statuses you have to call `git add file-name`
+  &lt;/li&gt;
+  &lt;li&gt; &lt;h5&gt;Staging Status&lt;/h5&gt;
+      Moving the files to the Staging status lets git know that you want to keep these edits. Once you&#39;ve decided that everything works, you commit the changes by calling `git commit -m description_of_changes`
+  &lt;/li&gt;
+  &lt;li&gt; &lt;h5&gt;Repository Status&lt;/h5&gt;
+      After you commit the changes, you can push the changes from your local repository to a remote repository. The Repository status would be publishing your edits online for public viewing. You complete this by calling `git push origin branch_name`
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Keep in mind that if something doesn’t work out, you can always delete the branch by calling:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;git branch -d branch-name&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Now that I understand how to use git to track and make changes to my project, it is a good time to talk about GitHub. GitHub is a website that hosts git repositories. Since it is remote, multiple people can view its contents on GitHub simultaneously. This is a great way for team members to remotely work on a project together OR to just get feedback on your own projects. Feedback is one of the main keys to a beginner.&lt;/p&gt;
+
+&lt;p&gt;Now I hope you’ve enjoyed understanding git concepts from the point of view of a coding newbie.&lt;/p&gt;
+
+&lt;p&gt;Have a nice day and code code code~&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 Jun 2015 17:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/blog/tech/2015/06/11/git.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/tech/2015/06/11/git.html</guid>
+        
+        
+        <category>tech</category>
+        
+      </item>
+    
+      <item>
+        <title>Chefs in the Kitchen</title>
+        <description>&lt;h2&gt;&quot;I&#39;m going on an adventure!&quot; -&lt;em&gt; Bilbo Baggins&lt;/em&gt;&lt;/h2&gt;
+
+&lt;p&gt;So I just finished watching &lt;a href=&quot;https://vimeo.com/85001014&quot;&gt;Shereef’s Fireside Chat&lt;/a&gt; and the main point that I got was:&lt;/p&gt;
+
+&lt;p&gt;Devbootcamp is a place where you come prepared to take a hold of your own learning - do not expect to be spoon-fed knowledge.&lt;/p&gt;
+
+&lt;p&gt;Of course the learning environment will be different than the learning environment of traditional schools. In schools, there is a wide variety of students who do not all have the same interests. Not all students will find every topic worthwhile. Why would they go out of their way to further their studies with research and join these knowledge communities when they barely want to learn the topic? DevBootcamp on the other hand is made up of people who want to learn coding. This type of environment is what anyone would dream to be a part of. The most rewarding type of learning is the kind where you do not want to stop and that happens when everyone around you is working towards a common goal. Nothing excites me more than a teacher who is passionate about what they are teaching and students who are passionate about absorbing lessons and willing to further their knowledge on their own.&lt;/p&gt;
+
+&lt;p&gt;I am definitely nervous about challenging this program but the moment Shereef mentioned common fears, I felt so much better! Upon hearing that some people were starting with the fear that they were accepted into DBC on accident, I burst out laughing! It was a perfect description of how I feel right now: scared of not having enough coding knowledge, scared of holding people back, etc. It was a great relief to hear that I’m not alone in my paranoia. I think I will always have a fear that my knowledge is not enough because obviously, it is not enough. But that is not going to stop me, in fact it challenges me to prove to myself that I can do it. I’m definitely looking forward to the next 18 weeks.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 10 Jun 2015 17:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/blog/cultural/2015/06/10/chefs-in-the-kitchen.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/cultural/2015/06/10/chefs-in-the-kitchen.html</guid>
+        
+        
+        <category>cultural</category>
         
       </item>
     
