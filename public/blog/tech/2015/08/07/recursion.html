@@ -6,11 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Values</title>
-  <meta name="description" content="“It's not hard to make decisions when you know what your values are.” ― Roy Disney">
+  <title>Recursion</title>
+  <meta name="description" content="What is recursion?">
 
   <link rel="stylesheet" href="/blog/css/main.css">
-  <link rel="canonical" href="http://yourdomain.com/blog/cultural/2015/07/31/values.html">
+  <link rel="canonical" href="http://yourdomain.com/blog/tech/2015/08/07/recursion.html">
   <link rel="alternate" type="application/rss+xml" title="Anne Chen" href="http://yourdomain.com/blog/feed.xml" />
 </head>
 
@@ -53,22 +53,37 @@
         <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Values</h1>
-    <p class="post-meta">Jul 31, 2015</p>
+    <h1 class="post-title">Recursion</h1>
+    <p class="post-meta">Aug 7, 2015</p>
   </header>
 
   <article class="post-content">
-    <h2>“It's not hard to make decisions when you know what your values are.” ― Roy Disney</h2>
+    <h2>What is recursion?</h2>
 
-<p>I learned a lot about myself through this week’s topic. I feel as though I’ve always known what I consider important in my life but I’ve never had to put it into words. Although I feel as though I connect with a lot of the values, thinking about the times when I was the happiest and the times when I was upset, it becomes pretty clear what my most important values are.</p>
+<p>As someone who is fond of math, the best way in which I can describe recursion is a sequence where the answer to the current problem depends on the answer from the previous problem. In other words, you are defining the problem in terms of itself. The loop can go on forever depending on the bounds. A popular example would be the <a href="http://mathworld.wolfram.com/FibonacciNumber.html">Fibonacci Numbers</a>.</p>
 
-<p>I grew up in a house where academic achievement was priority. When I think about my youth, I mostly recall being sent to afterschool programs or tutoring sessions even when money was tight. Also, I have an older brother who always excelled academically and seemingly effortlessly. So when I look at my own average academica achievements, I have always felt inferior. So although it does not bring me happiness, achievement has always been apart of my life. Achievement would be one of my values that I feel sometimes ties me down.</p>
+<h3>Why is coding recursion rare?</h3>
 
-<p>I’ve always found that when I am with friends, everything can seem fun. Just a late night playing videogames would become a memory that I cherish. I also remember a time where I was stressed about an assignment in school to the point of tears and my friend being there to calm me down. She had made me realize that school wasn’t my entire life even though it seemed so at the time. I suppose I have always felt that no matter what is happening in my life, good/bad, I can always share with my friends and grow from it. Friendship is one of my most important values.</p>
+<p>In most coding languages however, recursion seems to be less used as iteration is preferred. In order to understand why, I wanted to introduce the idea of <a href="https://en.wikipedia.org/wiki/Stack_(abstract_data_type)">stack</a>. Stack is a collection of elements in which the 2 main operations are pushing a element in and popping an element off. A call stack stores the subroutines of a program. When a program starts, there is a chunk of memory that is assigned to the stack. When that memory runs out, the program crashes from stack overflow. The most common cause of stack overflow is recursion. Since recursion is about the function calls on itself, there are cases in which it calls on itself so many times that the space required to store the variables and information associated with each call is too much. But it does need to be noted that the good thing about recursion is that it usually makes the code shorter and easier to read.</p>
 
-<p>When I entered the workforce and felt as though I gained some independence, I quickly realized how much I valued responsibility and honesty. If something goes wrong, I feel as though whoever was involved should own up to it. It’s the same when something goes right. Credit should be given where credit is due. I had felt a responsibilty to perform up to my position expectations. I have always taken my work seriously.</p>
+<h3>JavaScript Example</h3>
 
-<p>I realize that DBC is going to be stressful and there will be topics that I will not understand right away. Although this will bring me down, I know I will be able to rely on my friends for support and myself to put in the time and effort to get on track. I feel as though DBC has created an honest environment. Even though I feel nervous when exposing my weaknesses, I can still share them with my cohorts. Now that the onsite portion of DBC is only 2 weeks away, my nervousness is slowly being overshadowed by my excitement.</p>
+<p>Below is an example of recursion where a function is written for factorial, <code>!</code>. The first part is defining that the factorial of 0 is 1. Other than that special case, the factorial of each number depends on the factorial of the integer prior. For example, 4! is actually (3! * 4).</p>
+
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="n">function</span> <span class="n">factorial</span><span class="p">(</span><span class="n">n</span><span class="p">)</span> <span class="p">{</span>
+
+  <span class="k">if</span> <span class="p">(</span><span class="n">n</span> <span class="o">===</span> <span class="mi">0</span><span class="p">)</span> <span class="p">{</span>
+    <span class="k">return</span> <span class="mi">1</span><span class="p">;</span>
+  <span class="p">}</span>
+
+  <span class="k">return</span> <span class="n">n</span> <span class="o">*</span> <span class="n">factorial</span><span class="p">(</span><span class="n">n</span> <span class="o">-</span> <span class="mi">1</span><span class="p">);</span>
+<span class="p">}</span></code></pre></div>
+
+<ul>
+  <li><a href="http://www.cs.utah.edu/~germain/PPS/Topics/recursion.html">University of Utah: School of Computing</a></li>
+  <li><a href="https://www.cs.cmu.edu/~adamchik/15-121/lectures/Recursions/recursions.html">Carnegie Mellon University: School of Computer Science</a></li>
+</ul>
+
 
   </article>
 

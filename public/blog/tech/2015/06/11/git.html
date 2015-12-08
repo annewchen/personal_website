@@ -62,28 +62,41 @@
 
 <p>In order to begin to fully understand the concept of the powerful tool known as git, I had to first learn about Version Control.</p>
 
-<p>Now what is version control? I’d like to compare it to doing a math problem. When you were still in middle school, teachers always bugged you about showing all of your work. Well what happens when after all of your hard work, you find out that you got the wrong answer? You’d have to bust out your handy dandy eraser and erase your entire page of work. Now of course, after a while, you notice that your answer sheet is probably starting to wearing out from all of times you had to erase. Your teacher then starts bugging you about how messy your turned-in answer sheet is. That’s when you figure out that it is better to have a spare sheet of paper next to you for all of your chicken scratch work. You make all of your calculations on the spare sheet until you get the right answer. Once you make sure everything looks good, you transcribe the work onto your final answer sheet. You repeat this process for each question until you are done with the assignment. In the end, you only turn in your flawless answer sheet and toss your chicken scratch sheet. This is basically the concept of version control.</p>
+<p>Now what is version control? I’d like to compare it to doing a math problem. When you were still in middle school, teachers always bugged you about showing all of your work. Well what happens when after all of your hard work, you find out that you got the wrong answer? You’d have to bust out your handy dandy eraser and erase your entire page of work. Now of course, after a while, you notice that your answer sheet is probably starting to wearing out from all of times you had to erase. That’s when you figure out that it is better to have a spare sheet of paper next to you for all of your chicken scratch work. You make all of your calculations on the spare sheet until you get the right answer. Once you make sure everything looks good, you transcribe the work onto your final answer sheet. You repeat this process for each question until you are done with the assignment. In the end, you only turn in your flawless answer sheet and toss your chicken scratch sheet. This is basically the concept of version control.</p>
 
 <p>Version control is how a developer keeps their project looking flawless (like the turned-in answer sheet). When you want to make a change on your project, you first create a branch (like getting a scratch sheet of paper) and make the changes there. If it doesn’t work out, you discard it. No harm is done to your main project. If you like the changes made, you can merge your new work onto you master project. Essentially, you are controlling which version you want to show in the end.</p>
 
-<p>Now that I have that version control concept cemented, it is time to tackle the git concept monster. The first thing you want to do is create a branch to work in so nothing happens to your master project. Time to pull out that chicken scratch sheet of paper! To do this, call:</p>
+<p>Now that I have that version control concept cemented, it is time to tackle the git monster. The first thing you want to do is create a branch to work in so nothing happens to your master project. Time to pull out that chicken scratch sheet of paper! To do this, call:</p>
 
 <p><code>git checkout -b branch-name</code></p>
 
 <p>Now, it is important to understand that there 3 basic statuses of git: Working, Staging, and Repository.</p>
 
 <ol>
-  <li> <h5>Working Status</h5>
-      Basically this is when you are making a change to a file or making an entirely new file. If you call `git status` you will find that your changes are untracked. Once all of your edits are the way you want them to be, you would want to move these changes to the staging status. In order to change statuses you have to call `git add file-name`
+  <li>
+      <h4>Working Status</h4>
+      Basically this is when you are making a change to a file or making an entirely new file. If you call 
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="n">git</span> <span class="n">status</span></code></pre></div>
+ you will find that your changes are untracked. Once all of your edits are the way you want them to be, you would want to move these changes to the staging status. In order to change statuses you have to call
+      
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="n">git</span> <span class="n">add</span> <span class="n">file_name</span></code></pre></div>
+
+    </li>
+  <li>
+    <h4>Staging Status</h4>
+      Moving the files to the Staging status lets git know that you want to keep these edits. Once you've decided that everything works, you commit the changes by calling
+      
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="n">git</span> <span class="n">commit</span> <span class="o">-</span><span class="n">m</span> <span class="n">description_of_changes</span></code></pre></div>
+
   </li>
-  <li> <h5>Staging Status</h5>
-      Moving the files to the Staging status lets git know that you want to keep these edits. Once you've decided that everything works, you commit the changes by calling `git commit -m description_of_changes`
-  </li>
-  <li> <h5>Repository Status</h5>
-      After you commit the changes, you can push the changes from your local repository to a remote repository. The Repository status would be publishing your edits online for public viewing. You complete this by calling `git push origin branch_name`
+  <li>
+    <h4>Repository Status</h4>
+      After you commit the changes, you can push the changes from your local repository to a remote repository. The Repository status would be publishing your edits online for public viewing. You complete this by calling
+      
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="n">git</span> <span class="n">push</span> <span class="n">origin</span> <span class="n">branch_name</span></code></pre></div>
+
   </li>
 </ol>
-
 <p>Keep in mind that if something doesn’t work out, you can always delete the branch by calling:</p>
 
 <p><code>git branch -d branch-name</code></p>
@@ -110,7 +123,7 @@
     <div class="footer-col-wrapper">
       <div class="footer-col  footer-col-1">
         <ul class="contact-list">
-          <li>Anne Chen</li>
+          <li><a href="/">Homepage</a></li>
           <li><a href="mailto:annewchen@gmail.com">annewchen@gmail.com</a></li>
         </ul>
       </div>
